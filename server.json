@@ -1,0 +1,17 @@
+{
+    "users":[
+        {
+            "name": "azamat",
+            "age":23,
+            "position" : "frontend" 
+
+        },
+        {
+            "name": "Jon",
+            "age":34,
+            "position" : "backend" 
+
+
+        }
+    ]
+}
